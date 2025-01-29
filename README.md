@@ -1,4 +1,4 @@
-# IoT System with Docker, MQTT, InfluxDB, and Grafana
+# secure_iot_system
 
 This project simulates an IoT system using containerized services for data communication, processing, storage, and visualization. The system uses Docker Compose to deploy services seamlessly.
 
